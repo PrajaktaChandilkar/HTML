@@ -1,0 +1,91 @@
+body{
+    font-size: 50px;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    margin:0;
+    
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    color: blueviolet;
+    
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: blueviolet;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+p{
+    font-family: 'Merriweather', serif;
+    /* font-size: ; */
+}
+.top-container{
+    background-color: aquamarine;
+    position: relative;
+    padding-top: 100px;
+}
+.top-cloud{
+    float:right;
+    /* margin-right: 30px; */
+}
+.bottom-cloud{
+    /* float:middle; */
+}
+.mountain{
+    margin-top: 10px;
+    float: middle;
+}
+.middle-container{
+    /* position: relative;
+    padding-top: 100px; */
+    margin: 100px 0;
+}
+.botton-cointainer{
+    background-color: powderblue;
+    padding: 50px 0 20px;
+}
+.skill{
+    padding-bottom: none;
+}
+.skill-row{
+    width: 30%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.netflix-img{
+    width: 50%;
+    float: right;
+    margin-left: 30px;
+}
+.prajakta{
+    /* height: 300px; */
+    width: 200px;
+    border-radius: 50%;
+}
+h3{
+    color: blueviolet;
+    font-family: 'Montserrat', sans-serif;
+}
+hr{
+    border: dotted plum 5px;
+    border-bottom: none;
+    width: 4%;
+    margin:100px auto;
+}
+.bottom-cointainer{
+    background-color: rgb(70, 29, 9);
+    font-size: medium;
+}
+a:visited{
+    color: tomato;
+}
+/* .Meriweather{
+    font-family: 'Merriweather', serif;
+}
+.Montserrat{
+    font-family: 'Montserrat', sans-serif;
+}
+.Sacramento{
+    font-family: 'Sacramento', cursive
+} */
