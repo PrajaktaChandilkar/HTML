@@ -1,0 +1,30 @@
+body{
+    margin:0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 40;
+}
+.top-container{
+    background-color: rgb(184, 218, 218);
+    position: relative;
+    padding-top: 100px;
+}
+h1{
+    /* font-family: 'Merriweather', serif; */
+/* font-family: 'Montserrat', sans-serif; */
+font-family: 'Sacramento', cursive;
+color: rgb(68, 185, 189);
+fon
+}
+h2{
+    font-family: 'Merriweather', serif;
+    color: rgb(68, 185, 189);
+    
+}
+.prajakta{
+   
+    /* height: 200px; */
+    width: 200px;
+    border-radius: 50px;
+
+}

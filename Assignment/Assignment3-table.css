@@ -1,0 +1,16 @@
+.middle{
+    margin: auto;
+    width: 60%;
+}
+.center{
+    text-align: center;
+}
+.right{
+    text-align: right;
+}
+table{
+    border: 1px solid black;
+}
+td, tr{
+    border:1px solid black;
+}
